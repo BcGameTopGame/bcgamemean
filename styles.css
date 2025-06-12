@@ -90,13 +90,13 @@ body {
 
 .input-group input {
     width: 100%;
-    height: 55px;
+    height: 45px;
     padding: 12px 15px;
     font-size: 16px;
     font: bold;
     font-style: inherit;
     font-weight: 550;
-    background-color: #1e1e1e;
+    background-color: #1c1d1b;
     border: 1px solid #3f4b49;
     border-radius: 9px;
     color: #fff;
@@ -123,13 +123,13 @@ body {
 } 
 .passkey-button {
     background-color: #242323; /* Remove transparency */
-    border: 0.2px solid #454545; /* Single white border */
+    border: 0.2px solid #3d3c3c; /* Single white border */
     width: 100%;
-    height: 50px;
+    height: 35px;
     border-radius: 6px; /* Single radius */
     padding: 10px 40px;
     color: white;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
     cursor: pointer;
     display: inline-flex;
@@ -234,8 +234,8 @@ body {
     background: #252525;
     border: none;
     border-radius: 20%; /* Make the buttons round */
-    width: 45px; /* Increased width */
-    height: 45px; /* Increased height */
+    width: 35px; /* Increased width */
+    height: 35px; /* Increased height */
     display: flex;
     border: 1px solid #595959; /* Single border */
     justify-content: center;
